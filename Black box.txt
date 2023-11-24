@@ -1,0 +1,17 @@
+Black box testing 
+functionality of the sofware under test is checked without looking at the internal code stucture, implementation details or knowledge of internal paths of the software. 
+
+black box can be any sofware system you want to test 
+you can just test the aplication by focusing the output and input
+
+type of black box testing
+1. functional testing 
+2. non-functional testing 
+3. regresion testing
+
+
+White box testing is to validate internal stucture but if black box testing is validation of your functional requirements. 
+
+tools for black box testing
+1. functional and regresion testing, you can use QTP
+2. for non functional testing, you can use loadrunner
