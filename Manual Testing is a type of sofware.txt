@@ -1,0 +1,13 @@
+Manual Testing is a type of sofware testing were testers manually execute test cases without using any automation tools
+
+manual testing doesn't require knowledge of any testing tool
+
+the goal of manual testing is to ensure that application error free and it is working in conformance to the spesified functional requirements. 
+
+manual testing type:
+1. Black box
+2. White box
+3. Unit Testing 
+4. System Testing
+5. Integration Testing
+6. Acceptance Testing
